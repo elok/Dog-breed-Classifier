@@ -1,0 +1,6 @@
+# Dataset Directories
+dog_images/
+human_images/
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints/

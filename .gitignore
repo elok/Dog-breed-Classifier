@@ -1,6 +1,7 @@
 # Dataset Directories
 dog_images/
 human_images/
+test_images/
 
-# Jupyter notebook checkpoint
-.ipynb_checkpoints/
+# Trained Models
+model_transfer.pt

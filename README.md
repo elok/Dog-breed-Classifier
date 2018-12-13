@@ -15,7 +15,7 @@ It's the Convolutional Neural Network(CNN) project in the Deep Learning Nanodegr
 
 ### Instructions
 
-1. Clone the repository and navigate to the downloaded floder.
+1. Clone the repository and navigate to the downloaded folder.
 	```	
 		git clone https://github.com/choonghee-lee/Dog-breed-Classifier.git
 		cd Dog-breed-Classifier
